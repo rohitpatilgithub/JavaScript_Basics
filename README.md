@@ -10,6 +10,10 @@
 
 ## 📑 Lessons
 
+🌑 ***Basic CSS*** 👇
+
+            Selectors and Combinators
+            
 🌑 ***Chapter 1*** 👇
 
             Hello World
