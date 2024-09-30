@@ -1,0 +1,47 @@
+/*       Universal selector        */
+
+*{                     
+    color: rgb(252, 126, 147);
+}
+
+/*       Type selector        */
+
+p{
+    color: black;
+}
+
+/*       Class selector        */
+
+.happy{
+    color: blueviolet;
+    font-style: italic;
+    font-size: large;
+}
+
+/*       Class selector        */
+
+#cool{
+    color: coral;
+    font-style: italic;
+    font-size: x-large;
+}
+
+/*       Attribute selector        */
+
+a[href = "google"]{
+    color: rgb(255, 67, 67);
+}
+
+a[href = "youtube"]{
+    color: rgb(38, 200, 13);
+}
+
+a[href = "gmail"]{
+    color: rgb(72, 148, 219);
+}
+
+/*        Grouping selector        */
+
+div,p,em {
+    color: rgb(0, 171, 171);
+}

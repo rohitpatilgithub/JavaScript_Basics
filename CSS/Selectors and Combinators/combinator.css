@@ -1,0 +1,27 @@
+/*        Child combinator        */
+
+div > span {
+    color: brown;
+}
+
+/*        Descendant combinator        */
+
+li li {
+    color: black;
+}
+
+/*        Adjacent Sibling combinator        */
+
+h3 + p {
+    color: brown;
+}
+
+ul + li {
+    color : black; /* This won't change anything cuz it is a parent child relation not a sibling*/
+}
+
+/*        General Sibling combinator        */
+
+h3 ~ p {
+    color: blue;         /* Selects all sibling rather than just selecting adjacent one */
+}
