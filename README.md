@@ -10,7 +10,7 @@
 
 ## 📑 Lessons
 
-🌑 ***Basic CSS*** 👇
+🌕 ***Basic CSS*** 👇
 
             Selectors and Combinators
             
