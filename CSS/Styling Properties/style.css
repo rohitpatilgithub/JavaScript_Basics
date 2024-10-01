@@ -1,0 +1,30 @@
+/*      Here are some basic properties of CSS       */
+
+h1{
+    text-align: center;
+}
+
+p{
+    color: black;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 1000;
+    text-align: center;
+    text-transform: lowercase;
+    padding: 500px 500px;
+}
+
+.myPara{
+    color: black;
+    text-decoration : underline 2px dashed ;
+    letter-spacing: 2px;
+    text-shadow: 5px 5px 12px rgba(0, 0, 0, 0.547);
+    word-spacing: 10px;
+}
+
+body {
+    background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
