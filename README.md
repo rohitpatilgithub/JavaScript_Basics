@@ -13,6 +13,8 @@
 🌕 ***Basic CSS*** 👇
 
             Selectors and Combinators
+            Styling Properties
+            Absolute and Relative units
             
 🌑 ***Chapter 1*** 👇
 
