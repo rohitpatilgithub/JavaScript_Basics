@@ -18,6 +18,6 @@
 
 ## ***Project 3*** 🌑
 
-- *Title : Text Editor
+- Title : Text Editor
 
         In this project we will enter our name and it will generate a greeting text which will have our name in the sentence.
