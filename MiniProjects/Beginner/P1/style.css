@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(45, 45, 45);
+}
+
+.container{
+    width: 80%;
+    min-height: 100vh;
+    background-color: white;
+    margin: auto;
+    padding: 100px 50px;
+}
+
+.container h1 {
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: xx-large;
+    font-weight:500;
+    color: rgb(45, 45, 45);
+    background-color: white;
+    /* font-family:'Courier New', Courier, monospace; */
+}
+
+#numOfWords {
+    border: 1px solid rgba(45, 45, 45, 0.418);
+    width: 30vw;
+    height: 1vw;
+    padding: 1vw;
+    margin-top: 2vw;
+    text-align: left;
+    background-color: white;
+    font-family:'Courier New', Courier, monospace;
+    outline: none;
+}
+
+.paras {
+    background-color: rgba(45, 45, 45, 0.37);
+    margin-top: 2vw;
+    font-size: medium;
+    padding: 1vw;
+    font-family:'Courier New', Courier, monospace;
+}
+
+button {
+    padding: 10px;
+    background-color: rgb(45, 45, 45);
+    color: white;
+    cursor: pointer;
+    margin-left: 2vw;
+    font-family:'Courier New', Courier, monospace;
+}
+
+button:hover {
+    background-color: black;
+}
